@@ -155,3 +155,56 @@
   font-size: 10px;
 }
 }
+
+
+
+
+
+
+/* width545px */
+@media screen and (max-width: 545px){
+.media{
+  display: none !important;
+}
+.specials{
+  padding: 20px;
+}
+.specialsen{
+  padding: 100px 0;
+}
+.specialmedias{
+  display: block;
+}
+
+.specialmedia{
+  display: block;
+  margin: 100px 0;
+  padding: 0px;
+}
+.fafafa{
+  height: 60px;
+  width: 60px;
+  display: inline-block;
+  float: left;
+  position: relative;
+  bottom: 20px;
+}
+.fafafa p{
+  color: gold;
+  height: 60px;
+  padding: 3px;
+  margin: 0;
+  line-height: 50px;
+}
+.specialright{
+  text-align: left;
+  font-size: 10px;
+  color: #fff;
+}
+.top-top{
+  padding: 150px 0;
+}
+.top-bottom code{
+  font-size: 10px;
+}
+}
